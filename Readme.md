@@ -1,16 +1,39 @@
-# Internship
+## Overview
 
-This repository provides a description of my 5 week summer internship experience at Adani Kutch Copper Limited, Mundra. This experience gave me understanding of real world constraints that affect the company.
+This repository documents my five-week summer internship at Adani Kutch Copper Limited, where I worked with the Control & Instrumentation department. The internship focused on understanding how industrial utility systems are automated, monitored, and controlled using modern instrumentation, DCS/SCADA systems, industrial communication networks, and historian data. It concluded with a proof-of-concept data-driven monitoring project using generated process data.
 
-# About KCL
+## About KCL
 
-Kutch Copper Limited is an industrial plant, primarily dealing with refining of copper and producing end products like copper coils that are then shipped out to the customer. It is a fairly mature plant, also dealing with secondry prodcuts such as liquid Nitrogen and Argon; precious metals like Gold and Silver; and other utility products. My internship was in the control and instrumentation department, focusing on the utilities system that produced and provided utility products like compressed air, demineralised water and gaseous oxygen which is used by different systems around the plant. 
+Adani Kutch Copper Limited operates one of India's largest copper refining facilities. My internship was based in the Utilities section, which supports the refinery through systems such as Water Treatment Plant, Air Separation Unit and Compressed Air System.
 
-# Work
+## Scope
 
-Being a student of Electronics and Communications Engineering, I was able to see how the plant integrated concepts from this branch of engineering at a design level, in order to improve the efficiency of the plant. I was able to see the whole pipeline of information flow, from the field instruments to the control room and back to the field actuators when a control command was given. This gave me good understanding of the use of theoretical concepts at an industrial level, bridging the gap between theoretical framework and practical implementation. This understanding culminated in the idea of a proof of concept data analysis mini project, that aimed at improving the efficiency of the plant, using a predictive monitoring system that was modelled using machine learning.
+During the internship, I understood the process and automation of 3 industrial utility systems:
+- Water Treatment Plant (WTP)
+- Air Separation Unit (ASU)
+- Compressed Air System (CAS)
 
-# Final report
+I was able to understand how the following theoretical topics are implemented practically:
+- Industrial Automation
+- Data Communication Networks
+- Control Procedure and PID Loops
+- Process data and Historian Systems
+- Data Analysis and Machine Learning
 
-A detailed report was prepared in order to submit to my college, the report contained everything I learned and implemented in this internship.
+## Key Technical Work
 
+- Studied certain classes of field instruments that measured parameters such as Flow, Pressure and Temperature.
+- Analyzed information flow from field devices to the DCS/SCADA systems.
+- Traced the path of digital communication from remote I/O to the DCS using communication protocols like Profinet and Ethernet.
+- Developed a proof-of-concept predictive monitoring system using machine learning.
+- Documented control strategies and strategies including PID and Cascading loops.
+
+## Outcomes
+
+This internship provided good exposure to the work flow and the implementation of electronics and communication concepts such as signals and systems, control engineering and data analytics in a large industrial setting.
+
+## Internship report
+
+A detailed report describing the utility systems studied, industrial automation architecture, instrumentation, historian data analysis, and proof-of-concept predictive monitoring project.
+
+[Read the Internship Report](Internship_Report.pdf)
