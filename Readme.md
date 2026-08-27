@@ -36,4 +36,4 @@ This internship provided good exposure to the work flow and the implementation o
 
 A detailed report describing the utility systems studied, industrial automation architecture, instrumentation, historian data analysis, and proof-of-concept predictive monitoring project.
 
-[Read the Internship Report](Internship_Report.pdf)
+[Read the Internship Report](Internship Report.pdf)
